@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="" />
+    <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/products/[productId]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/products/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,12 +93,27 @@
       <workItem from="1757484038695" duration="804000" />
       <workItem from="1757484851204" duration="280000" />
       <workItem from="1757485581978" duration="299000" />
-      <workItem from="1757573935379" duration="781000" />
+      <workItem from="1757573935379" duration="1109000" />
+      <workItem from="1757576609072" duration="2000" />
+      <workItem from="1757599610545" duration="2000" />
+      <workItem from="1757665745473" duration="731000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/products/[productId]/page.tsx</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.apollographql.ijplugin.settings.ProjectSettingsState">
     <option name="hasEnabledGraphQLPluginApolloKotlinSupport" value="true" />
