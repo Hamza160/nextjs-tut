@@ -11,8 +11,12 @@ const navLinks = [
 
 export default function AuthLayout({children}: { children: React.ReactNode }) {
     const pathname = usePathname();
+    const [input, setInput] = React.useState("");
     return (
         <>
+            <div>
+                <input value={input} onChange={(e) => setInput(e.target.value)} placeholder="Enter something" />
+            </div>
             <div>
                 {navLinks.map(link => {
                         const isActive = pathname === link.url || (pathname.startsWith(link.url) && link.url !== '/');
