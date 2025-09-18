@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/blog/loading.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/blog/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blog/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]/error.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,8 @@
       <recent name="$PROJECT_DIR$/src/app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]" />
+      <recent name="$PROJECT_DIR$/src/app/products/[productId]/reviews" />
       <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src/app/(marketing)" />
       <recent name="$PROJECT_DIR$/src/app/products/[productId]" />
@@ -116,6 +117,7 @@
       <workItem from="1758007796780" duration="1853000" />
       <workItem from="1758009666914" duration="1412000" />
       <workItem from="1758096520609" duration="2249000" />
+      <workItem from="1758179866271" duration="756000" />
     </task>
     <servers />
   </component>
