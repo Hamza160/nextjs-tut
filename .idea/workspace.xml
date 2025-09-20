@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@notifications/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@revenue/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@users/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@notifications/archived/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@notifications/default.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/@notifications/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@notifications/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
-    "last_opened_file_path": "/Users/hamzaashraf/Documents/MERN-DEVELOPMENT/NextJS/nextjs-tut/src/app/complex-dashboard",
+    "last_opened_file_path": "/Users/hamzaashraf/Documents/MERN-DEVELOPMENT/NextJS/nextjs-tut/src/app/complex-dashboard/@notifications",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,11 +63,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/complex-dashboard/@notifications" />
       <recent name="$PROJECT_DIR$/src/app/complex-dashboard" />
       <recent name="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]" />
       <recent name="$PROJECT_DIR$/src/app/(auth)" />
       <recent name="$PROJECT_DIR$/src/app/(marketing)" />
-      <recent name="$PROJECT_DIR$/src/app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/app/products" />
@@ -128,7 +124,7 @@
       <workItem from="1758179866271" duration="756000" />
       <workItem from="1758180635765" duration="719000" />
       <workItem from="1758270577217" duration="2089000" />
-      <workItem from="1758354765235" duration="1606000" />
+      <workItem from="1758354765235" duration="2595000" />
     </task>
     <servers />
   </component>
