@@ -5,24 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/@modal/(.)[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/@modal/default.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/art1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/avatar.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/wonders.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Modal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/hello/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/profile/route.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/%5Flib/format-date.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/dashboard/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/%5Flib/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(auth)/forgot-password/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(auth)/login/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(auth)/register/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(auth)/template.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(marketing)/customers/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(marketing)/revenue/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/_lib/format-date.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/dashboard/user/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/_lib/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/about/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/articles/[articleId]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/first/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/loading.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/second/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/@login/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/@notifications/archived/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/@notifications/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/@revenue/default.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/@revenue/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/@users/default.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/@users/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/default.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/complex-dashboard/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/counter/Counter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/counter/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/line-chart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/docs/[[...slug]]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/error-wrapper.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/f1/(.)f2/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/f1/(..)f3/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/f1/f2/(..)(..)f4/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/f1/f2/inner-f2/(...)f5/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/f1/f2/inner-f2/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/f1/f2/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/f1/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/f3/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/f4/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/f5/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/global-error.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/not-found.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/order-product/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/@modal/(.)[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/@modal/default.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/photos/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/photos/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/photos/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/photos/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/photos/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/photos/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/photos/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/photos/art1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/photos/avatar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photo-feed/wonders.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/[productId]/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/[productId]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]/error.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]/not-found.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/error.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/profile/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/profile/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Card.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modal.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +200,7 @@
       <workItem from="1758270577217" duration="2089000" />
       <workItem from="1758354765235" duration="3097000" />
       <workItem from="1758448666801" duration="2504000" />
-      <workItem from="1758525388968" duration="2243000" />
+      <workItem from="1758525388968" duration="2861000" />
     </task>
     <servers />
   </component>
