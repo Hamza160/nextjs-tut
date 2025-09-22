@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/f1/(.)f2/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/f1/(..)f3/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/f1/f2/(..)(..)f4/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/f1/f2/inner-f2/(...)f5/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/f1/f2/inner-f2/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/f1/f2/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/f1/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/f3/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/f4/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/f5/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/@modal/(.)[id]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/@modal/default.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/[id]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/art1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/photos/avatar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/photo-feed/wonders.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +64,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
-    "last_opened_file_path": "/Users/hamzaashraf/Documents/MERN-DEVELOPMENT/NextJS/nextjs-tut/src/app/f1/f2",
+    "last_opened_file_path": "/Users/hamzaashraf/Documents/MERN-DEVELOPMENT/NextJS/nextjs-tut/src/app/photo-feed",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,18 +77,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/photo-feed" />
+      <recent name="$PROJECT_DIR$/src/app/f1/f2" />
       <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src/app/f1" />
       <recent name="$PROJECT_DIR$/src/app/complex-dashboard" />
-      <recent name="$PROJECT_DIR$/src/app/complex-dashboard/@revenue" />
-      <recent name="$PROJECT_DIR$/src/app/complex-dashboard/@users" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/photo-feed/@modal/(.)[id]" />
+      <recent name="$PROJECT_DIR$/src/app/photo-feed/@modal" />
+      <recent name="$PROJECT_DIR$/src/app/photo-feed/photos" />
       <recent name="$PROJECT_DIR$/src/app/f1" />
       <recent name="$PROJECT_DIR$/src/app/products" />
-      <recent name="$PROJECT_DIR$/src/app/products/[productId]" />
-      <recent name="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]" />
-      <recent name="$PROJECT_DIR$/src/app/products/[productId]/reviews" />
     </key>
   </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
@@ -132,7 +139,8 @@
       <workItem from="1758180635765" duration="719000" />
       <workItem from="1758270577217" duration="2089000" />
       <workItem from="1758354765235" duration="3097000" />
-      <workItem from="1758448666801" duration="1835000" />
+      <workItem from="1758448666801" duration="2504000" />
+      <workItem from="1758525388968" duration="2243000" />
     </task>
     <servers />
   </component>
