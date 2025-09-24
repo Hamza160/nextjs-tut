@@ -10,7 +10,7 @@ export async function POST(res:Request)
     const comment = await  res.json()
 
     const newComment = {
-        id: comment.length + 1 as number,
+        id: comments.length + 1 as number,
         text: comment.text as string,
     }
 

@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/comments/[id]/route.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/comments/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/comments/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/comments/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/comments/route.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +70,11 @@
       <recent name="$PROJECT_DIR$/src/app/complex-dashboard" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src/app/profile/api" />
       <recent name="$PROJECT_DIR$/src/app/photo-feed/@modal/(.)[id]" />
       <recent name="$PROJECT_DIR$/src/app/photo-feed/@modal" />
       <recent name="$PROJECT_DIR$/src/app/photo-feed/photos" />
-      <recent name="$PROJECT_DIR$/src/app/f1" />
     </key>
   </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
@@ -125,6 +128,8 @@
       <workItem from="1758448666801" duration="2504000" />
       <workItem from="1758525388968" duration="3172000" />
       <workItem from="1758567636486" duration="16000" />
+      <workItem from="1758613194810" duration="2249000" />
+      <workItem from="1758696968198" duration="1248000" />
     </task>
     <servers />
   </component>
