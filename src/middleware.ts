@@ -1,22 +1,18 @@
-// Custom matcher config
 
 import {NextResponse} from "next/server";
 import type {NextRequest} from "next/server";
 
-// export function middleware(req: NextRequest){
-//     return NextResponse.redirect(new URL("/", req.url));
-// }
-//
-// export const config = {
-//     matcher:"/profile"
-// }
-
-// Conditional statements
-
 export function middleware(req: NextRequest){
+    const response =  NextResponse.next()
+    // Cookie Handling
+    const themePreference = req.cookies.get('theme')
 
-    if(req.nextUrl.pathname === '/profile'){
-        // return NextResponse.redirect(new URL("/hello", req.url));
-        return NextResponse.rewrite(new URL("/hello", req.url)); // it will not change the url but change the page content
+    if(!themePreference){
+        response.cookies.set('theme', 'dark')
     }
+    // Headers Handling
+    response.headers.set('Content-Type', 'text/html')
+
+    return response
 }
+
