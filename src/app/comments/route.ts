@@ -24,6 +24,5 @@ export async function POST(res:Request)
         headers: {
             'Content-Type': 'application/json',
         },
-        statusCode:201
     });
 }
