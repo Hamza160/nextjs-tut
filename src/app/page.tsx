@@ -1,11 +1,11 @@
 import Link from "next/link";
+import LoginForm from "@/components/LoginForm";
 
 export default function HomePage (){
     return (
-        <div>
-            <Link href="/dashboard">Dashboard</Link>
-            <Link href="/about">About Page</Link>
-            <h1>Hello From Home Page</h1>
+        <div className="flex flex-col justify-center items-center m-4">
+            <h1 className="text-3xl my-3">Hey, time to sign in</h1>
+            <LoginForm />
         </div>
     )
 }
