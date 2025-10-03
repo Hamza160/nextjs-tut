@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/product-reviews/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Product.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Reviews.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/client-route/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/server-route/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/server-utils.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +52,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
-    "last_opened_file_path": "/Users/hamzaashraf/Documents/MERN-DEVELOPMENT/NextJS/nextjs-tut/src/components",
+    "last_opened_file_path": "/Users/hamzaashraf/Documents/MERN-DEVELOPMENT/NextJS/nextjs-tut/src/app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "editing.templates",
     "ts.external.directory.path": "/Users/hamzaashraf/Documents/MERN-DEVELOPMENT/NextJS/nextjs-tut/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -140,6 +142,7 @@
       <workItem from="1759228234867" duration="3000" />
       <workItem from="1759303291224" duration="1316000" />
       <workItem from="1759390773639" duration="1003000" />
+      <workItem from="1759477275764" duration="1924000" />
     </task>
     <servers />
   </component>
