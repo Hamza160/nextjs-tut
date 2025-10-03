@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/client-route/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/server-route/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/server-utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/ImageSlider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/client-route/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/client-route/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/server-route/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/server-route/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +74,9 @@
       <recent name="$PROJECT_DIR$/src/app/photo-feed" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src/app/profile/api" />
       <recent name="$PROJECT_DIR$/src/app/photo-feed/@modal/(.)[id]" />
     </key>
@@ -142,7 +144,7 @@
       <workItem from="1759228234867" duration="3000" />
       <workItem from="1759303291224" duration="1316000" />
       <workItem from="1759390773639" duration="1003000" />
-      <workItem from="1759477275764" duration="1924000" />
+      <workItem from="1759477275764" duration="2846000" />
     </task>
     <servers />
   </component>
