@@ -2,8 +2,8 @@ import NextAuth, {CredentialsSignin} from "next-auth";
 import GoogleProvider from "next-auth/providers/google"
 import GithubProvider from "next-auth/providers/github"
 import Credentials from "next-auth/providers/credentials"
-import {getUserByEmail} from "@/data/users";
-
+import {User} from "@/model/user-mode";
+import bcrypt from "bcryptjs";
 
 export const {handlers, signIn, signOut, auth} = NextAuth({
     session:{
@@ -16,7 +16,7 @@ export const {handlers, signIn, signOut, auth} = NextAuth({
                 if (!credentials?.email || !credentials?.password) return null;
 
                 // NOTE: await if your data call is async
-                const user = getUserByEmail(credentials?.email);
+                const user = await User.findOne({email: credentials.email})
 
                 if (!user) {
                     // generic but user-friendly code
@@ -26,7 +26,7 @@ export const {handlers, signIn, signOut, auth} = NextAuth({
                     throw new InvalidUser();
                 }
 
-                const ok = user.password === credentials.password; // replace with hash check
+                const ok = await bcrypt.compare(String(credentials.password), user.password); // replace with hash check
                 if (!ok) {
                     class BadCreds extends CredentialsSignin {
                         code = "Invalid credentials";
