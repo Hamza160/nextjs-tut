@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/customers/CustomTable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/customers/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/User.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +74,9 @@
       <recent name="$PROJECT_DIR$/src/app/photo-feed" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/app/profile/api" />
       <recent name="$PROJECT_DIR$/src/app/photo-feed/@modal/(.)[id]" />
     </key>
@@ -142,6 +148,7 @@
       <workItem from="1759657876018" duration="264000" />
       <workItem from="1759658271946" duration="442000" />
       <workItem from="1759733011089" duration="1354000" />
+      <workItem from="1759828068116" duration="1558000" />
     </task>
     <servers />
   </component>
