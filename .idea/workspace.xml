@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/blogs/[id]/comments/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/files/[[...filePath]]/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +68,11 @@
       <recent name="$PROJECT_DIR$/src/app/api" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/files" />
       <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/app/profile/api" />
-      <recent name="$PROJECT_DIR$/src/app/photo-feed/@modal/(.)[id]" />
     </key>
   </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
@@ -142,7 +142,7 @@
       <workItem from="1760336110502" duration="727000" />
       <workItem from="1760338063527" duration="2239000" />
       <workItem from="1760422992584" duration="2155000" />
-      <workItem from="1760509458432" duration="433000" />
+      <workItem from="1760509458432" duration="1437000" />
     </task>
     <servers />
   </component>
