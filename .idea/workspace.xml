@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847b60a-24ea-4d21-ae7f-bf10a9887ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/services/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/about/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/about/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blogs/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blogs/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blogs/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blogs/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +150,7 @@
       <workItem from="1760422992584" duration="2155000" />
       <workItem from="1760509458432" duration="1996000" />
       <workItem from="1760593720747" duration="85000" />
-      <workItem from="1760593856016" duration="721000" />
+      <workItem from="1760593856016" duration="2342000" />
     </task>
     <servers />
   </component>
