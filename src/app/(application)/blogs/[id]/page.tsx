@@ -2,6 +2,8 @@ import type {Metadata} from 'next';
 import React from 'react';
 import {notFound} from "next/navigation";
 
+export const dynamicParams = false
+
 export async function generateMetadata({params}: { params: Promise<{ id: string }> }): Promise<Metadata> {
     const {id} = await params
     return {
