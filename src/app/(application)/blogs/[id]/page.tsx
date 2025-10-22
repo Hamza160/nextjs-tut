@@ -3,6 +3,7 @@ import React from 'react';
 import {notFound} from "next/navigation";
 
 export const dynamicParams = false
+// export const revalidate = 5
 
 export async function generateMetadata({params}: { params: Promise<{ id: string }> }): Promise<Metadata> {
     const {id} = await params
@@ -24,11 +25,20 @@ export async function generateStaticParams() {
 
 export default async function BlogDetails({params}: { params: Promise<{ id: string }> }) {
     const {id} = await params
+
+    const response = await fetch('https://jsonplaceholder.typicode.com/posts/1', {
+        next: {revalidate: 5}
+    });
+    const data = await response.json();
+
     if (!/^\d+$/.test(id)) {
         notFound();
     }
     return (
-        <div>Blog Details for {id}</div>
+        <div>
+            <h1>Blog Details for {id}</h1>
+            <h2>Date: {new Date().toLocaleString()}</h2>
+        </div>
     );
 }
 
