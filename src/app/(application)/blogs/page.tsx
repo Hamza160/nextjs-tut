@@ -16,11 +16,9 @@ export default function AboutPage() {
             <Link href="/blogs/1">Blog 1</Link>
             <Link href="/blogs/2">Blog 2</Link>
             <Link href="/blogs/3">Blog 3</Link>
+            <Likes/>
             <Suspense fallback={<div>Loading Views...</div>}>
                 <Views/>
-            </Suspense>
-            <Suspense fallback={<div>Loading Likes...</div>}>
-                <Likes/>
             </Suspense>
             <Suspense fallback={<div>Loading Comments...</div>}>
                 <Comments/>

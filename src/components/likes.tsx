@@ -1,11 +1,14 @@
+"use client"
 import React from 'react';
 
-const Likes = async() => {
-    await new Promise(resolve => setTimeout(resolve, 6000));
-
+const Likes = () => {
+    const [count, setCount] = React.useState(0);
+    if (typeof localStorage !== 'undefined') {
+        console.log(localStorage);
+    }
     return (
-        <div>
-            <p>10k Likes</p>
+        <div onClick={() => setCount(prevCount => prevCount + 1)}>
+            <p>{count} Likes {typeof console.log('running on server')}</p>
         </div>
     );
 }
