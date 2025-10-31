@@ -12,16 +12,16 @@ export default function ClientRoute() {
         <div className="image-slider-container">
             <Slider {...settings}>
                 <div>
-                    <img src="http://picsum.photos/400/200" />
+                    {/*<img src="http://picsum.photos/400/200" />*/}
                 </div>
                 <div>
-                    <img src="http://picsum.photos/400/200" />
+                    {/*<img src="http://picsum.photos/400/200" />*/}
                 </div>
                 <div>
-                    <img src="http://picsum.photos/400/200" />
+                    {/*<img src="http://picsum.photos/400/200" />*/}
                 </div>
                 <div>
-                    <img src="http://picsum.photos/400/200" />
+                    {/*<img src="http://picsum.photos/400/200" />*/}
                 </div>
             </Slider>
         </div>
